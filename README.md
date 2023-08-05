@@ -6,6 +6,6 @@ I expect to showcase my progress here, my number 1 reason for starting this is p
 ## Day 1
 Honestly, I am the kind of person that likes to start at the beggining, so although I could've skipped this, it doesn't hurt to do the simple things. 
 
-well, in python there's no f in the print function, that's something to notice haha. Something actually new to me is that in python you can use both '' and "" to indicate strings. also using the input() function inside other functions is something different from c as scanf would return the number of characters read. Variables apparently don't need their type when declaring them. YOu can concatenate string with the + sign and adequate indentation is essential. 
+well, in python there's no f in the print function, that's something to notice haha. Something actually new to me is that in python you can use both '' and "" to indicate strings. also using the input() function inside other functions is something different from c as scanf would return the number of characters read. Variables apparently don't need their type when declaring them. You can concatenate strings with the + sign and adequate indentation is essential. 
 
 ## Day 2
