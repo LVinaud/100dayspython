@@ -9,3 +9,5 @@ Honestly, I am the kind of person that likes to start at the beggining, so altho
 well, in python there's no f in the print function, that's something to notice haha. Something actually new to me is that in python you can use both '' and "" to indicate strings. also using the input() function inside other functions is something different from c as scanf would return the number of characters read. Variables apparently don't need their type when declaring them. You can concatenate strings with the + sign and adequate indentation is essential. 
 
 ## Day 2
+Alright! now I know that python has a round function that can both round up or down a float to an int and also make it into a float with a specified amount of decimal digits, however it can bug. So, there's also the specifier "{:.2f}".format() which is similar to what print("%.2f",) would do in C.
+fstrings also are a new concept to me. Apparently, I can make any data type into string by putting a f before the "...{}{}" with these curly brackets when printing a string. ** is the exponent operation.
